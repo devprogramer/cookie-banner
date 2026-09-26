@@ -1,0 +1,15 @@
+
+.consentBtn {
+    background: none;
+    border: none;
+    padding: 0;
+    color: #666;
+    font-size: 14px;
+    cursor: pointer;
+    transition: color 0.2s;
+    font-family: inherit;
+  }
+  
+  .consentBtn:hover {
+    color: #333;
+  }
