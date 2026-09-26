@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import styles from "../styles/consent.module.css";
 import { getConsent, setConsent, } from "./consent";
-import type { ConsentStatus, CookieSettingsButtonProps } from "./types";
+import type { ConsentStatus, CookieSettingsButtonProps } from "./cookies-types";
 
 
 export default function CookieSettingsButton({className} : CookieSettingsButtonProps) {
