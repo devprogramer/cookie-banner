@@ -1,0 +1,25 @@
+{
+  "name": "cookie-banner",
+  "version": "1.0.0",
+  "description": "React cookie banner componnet with consent functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devprogramer/cookie-banner.git"
+  },
+  "keywords": [
+    "Cookie",
+    "banner",
+    "gdpr",
+    "consent"
+  ],
+  "author": "Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devprogramer/cookie-banner/issues"
+  },
+  "homepage": "https://github.com/devprogramer/cookie-banner#readme"
+}
